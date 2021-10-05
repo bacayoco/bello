@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Terraform folders to be ignored
+.terraform
+.terraform.lock.hcl
